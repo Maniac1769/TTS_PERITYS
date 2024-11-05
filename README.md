@@ -1,13 +1,8 @@
-# Rasa: Building Expressive Speech Synthesis Systems for Indian Languages in Low-resource Settings
+TTS PERITYS
 
-> 🎉 Accepted at INTERSPEECH 2024
-
-We release Rasa, the first multilingual expressive TTS dataset for any Indian language, which contains 10 hours of neutral speech and 1-3 hours of expressive speech for each of the 6 Ekman emotions covering 3 languages: Assamese, Bengali, \& Tamil. Our ablation studies reveal that just 1 hour of neutral and 30 minutes of expressive data can yield a Fair system as indicated by MUSHRA scores. Increasing neutral data to 10 hours, with minimal expressive data, significantly enhances expressiveness. This offers a practical recipe for resource-constrained languages, prioritizing easily obtainable neutral data alongside smaller amounts of expressive data. We show the importance of syllabically balanced data and pooling emotions to enhance expressiveness. We also highlight challenges in generating specific emotions, e.g., fear and surprise.
 
 **TL;DR:** We open-source Expressive Text-To-Speech dataset and models for 3 Indian languages: *Assamese, Bengali, and, Tamil.*.
 
-
-**Authors:** Praveen S V*, Ashwin Sankar*, Giri Raju, Mitesh M. Khapra
 
 
 
